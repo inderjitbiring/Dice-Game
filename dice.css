@@ -1,0 +1,19 @@
+body {
+font-family:sans-serif;
+}
+
+h1 {
+font-size:50px;
+}
+
+@media (max-width: 768px) {
+  .dice {
+  margin: 25px;
+   }
+	
+  h1 {
+  font-size:30px;
+     }
+}
+
+
